@@ -1,4 +1,5 @@
 # HEALTHCARE INSURANCE DASHBOARD
+###### Note: Raw Data is also in the Excel file
 ## Project Overview
 This Project is based on the healthcare domain.An Insurance company is having the data of the Patients who had insured.The data consists of the charges of the each patients insured based on their data like their gender,age,smoking habit,family size,bmi and region.
 
